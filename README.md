@@ -1,5 +1,3 @@
-# BlackJackCLI
-
 ## Play a little black jack from the CLI 
 
 _Welcome to my little black jack game_ 
